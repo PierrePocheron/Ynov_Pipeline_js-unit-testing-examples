@@ -115,7 +115,7 @@ jobs:
             ${{ runner.os }}-
 
       - name: Deploy to Netlify
-        run: npx netlify-cli deploy --prod --dir=dist --name=js-unit-testing
+        run: npx netlify-cli deploy --prod --dir=dist
 
         env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}

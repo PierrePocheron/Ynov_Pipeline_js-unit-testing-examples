@@ -1,5 +1,9 @@
 # JavaScript Unit Testing Examples
 
+[![Code quality ✨](https://github.com/PierrePocheron/Ynov_Pipeline_js-unit-testing-examples/actions/workflows/main-workflow.yml/badge.svg)](https://github.com/PierrePocheron/Ynov_Pipeline_js-unit-testing-examples/actions/workflows/main-workflow.yml)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/43513040-f3e0-4435-9d8d-977569c24a31/deploy-status)](https://pipeline-js-unit-testing-examples.netlify.app/)
+
+
 Example project to allow me to show how best to unit test a JavaScript Express application.
 
 ## Install
